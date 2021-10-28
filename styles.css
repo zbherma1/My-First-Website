@@ -4,8 +4,28 @@ body {
 
 .head {
     text-align: center;
+    background-color: blue;
+    color: white;
+    padding: 5px;
+    height: 115px;
+}
+
+.head-button {
+    background-color: rgb(112, 195, 223);
+    color: white;
+    border-color: rgb(112, 195, 223);
 }
 
 .body {
     text-align: left;
+    background-color: rgb(112, 195, 223);
+    color: white;
+    padding: 5px;
+    height: 570px;
+}
+
+.body-button {
+    background-color: white;
+    color: rgb(112, 195, 223);
+    border-color: white;
 }
